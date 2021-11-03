@@ -12,3 +12,4 @@ sample
 18/10/2021 --> monday
 hello
 surwesh
+10/06/2021 --> it i swednesday
