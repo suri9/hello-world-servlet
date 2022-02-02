@@ -13,3 +13,4 @@ sample
 hello
 surwesh
 10/06/2021 --> it i swednesday
+02/02/2022 --> wednesday
