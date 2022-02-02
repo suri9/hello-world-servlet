@@ -15,3 +15,4 @@ surwesh
 10/06/2021 --> it i swednesday
 02/02/2022 --> wed
 02/02/2022 --> wed is today
+02/02/2022 --> wed is lataest
